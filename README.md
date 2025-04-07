@@ -1,10 +1,11 @@
-<h1> Hi there! My name is B0bTheSkull, you can call me Bob, if you know me in real life you can call me whatever you prefer.</h1>
+# Welcome!
+My name is B0bTheSkull — you can call me Bob. If you know me in real life, call me whatever you prefer.
 
-<h2> CyberSecurity WriteUps for Try Hack Me and Hack the Box</h2>
+## CyberSecurity WriteUps for TryHackMe and Hack The Box
 
-- [CyberSecWriteUps] https://github.com/B0bTheSkull/CyberSecWriteUps
+- [CyberSecWriteUps](https://github.com/B0bTheSkull/CyberSecWriteUp)
 
-<h2> Certifications </h2>
-- CompTIA A+ 
-- CompTIA Sec+ (In Progress)
+## Certifications
 
+- CompTIA A+  
+- CompTIA Security+ (In Progress)
