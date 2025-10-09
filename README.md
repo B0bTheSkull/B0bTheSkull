@@ -10,4 +10,5 @@ If you know me in real life, call me whatever you prefer.
 ## Certifications
 
 - CompTIA A+  <br>
-- CompTIA Security+ (In Progress)
+- CompTIA Security+ <br>
+- 
