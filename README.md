@@ -24,9 +24,11 @@ Security researcher and blue team builder. I spend my time breaking things to un
 | [**WebAudit**](https://github.com/B0bTheSkull/webaudit) | Web app security scanner — checks headers, exposed files, SSL, cookies, XSS reflection, generates HTML reports |
 | [**SubScope**](https://github.com/B0bTheSkull/subscope) | Subdomain enumeration — DNS brute force + cert transparency + HTTP probing + takeover detection |
 
-### OSINT & Analysis
+### Threat Hunting & Analysis
 | Repo | What it does |
 |------|-------------|
+| [**PhishKit Analyzer**](https://github.com/B0bTheSkull/phishkit-analyzer) | Static analyzer for suspected phishing pages — detects credential forms, kit fingerprints (16shop, Telegram/Discord exfil), brand impersonation, hidden iframes, and embedded IOCs |
+| [**vault-scan**](https://github.com/B0bTheSkull/vault-scan) | Secret scanner for git repositories — ~30 vendor-specific patterns + entropy detection, JSON output, CI-friendly exit codes |
 | [**darkdump_crawl**](https://github.com/B0bTheSkull/darkdump_crawl) | Paste & leak extractor — pulls credentials, emails, API keys, crypto wallets, and IOCs from paste dumps |
 | [**Cybersecurity-projects**](https://github.com/B0bTheSkull/Cybersecurity-projects) | Collection of smaller tools: password strength + breach checker (HIBP), web metadata scraper, ESP32 evil twin demo |
 
