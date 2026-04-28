@@ -27,10 +27,17 @@ Security researcher and blue team builder. I spend my time breaking things to un
 ### Threat Hunting & Analysis
 | Repo | What it does |
 |------|-------------|
+| [**MalDoc Scanner**](https://github.com/B0bTheSkull/maldoc-scanner) | Static analyzer for malicious Office docs and PDFs — extracts VBA macros and PDF actions, scores 34 indicators (auto-execute, shell exec, downloaders, process injection, persistence, /Launch, /EmbeddedFile) |
 | [**PhishKit Analyzer**](https://github.com/B0bTheSkull/phishkit-analyzer) | Static analyzer for suspected phishing pages — detects credential forms, kit fingerprints (16shop, Telegram/Discord exfil), brand impersonation, hidden iframes, and embedded IOCs |
 | [**vault-scan**](https://github.com/B0bTheSkull/vault-scan) | Secret scanner for git repositories — ~30 vendor-specific patterns + entropy detection, JSON output, CI-friendly exit codes |
 | [**darkdump_crawl**](https://github.com/B0bTheSkull/darkdump_crawl) | Paste & leak extractor — pulls credentials, emails, API keys, crypto wallets, and IOCs from paste dumps |
 | [**Cybersecurity-projects**](https://github.com/B0bTheSkull/Cybersecurity-projects) | Collection of smaller tools: password strength + breach checker (HIBP), web metadata scraper, ESP32 evil twin demo |
+
+### Identity, Cloud & Container Security
+| Repo | What it does |
+|------|-------------|
+| [**ADRecon-Lite**](https://github.com/B0bTheSkull/adrecon-lite) | Lightweight Active Directory enumeration — finds AS-REP roastable, Kerberoastable, unconstrained / constrained / RBCD delegation, password-not-required accounts. Live LDAP + offline JSON modes |
+| [**ContainerWatch**](https://github.com/B0bTheSkull/container-watch) | Docker runtime security monitor — alerts on privileged containers, sensitive host mounts, host networking, dangerous capabilities, and exposed Docker API. Audit + real-time monitor modes |
 
 ### Job Market
 | Repo | What it does |
