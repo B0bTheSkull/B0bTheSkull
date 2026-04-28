@@ -11,10 +11,12 @@ Security researcher and blue team builder. I spend my time breaking things to un
 ### Blue Team & Detection
 | Repo | What it does |
 |------|-------------|
-| [**LogHound**](https://github.com/B0bTheSkull/loghound) | CLI log anomaly detector — finds brute force, privilege escalation, and scanner behavior in auth and web server logs |
-| [**NetSentinel**](https://github.com/B0bTheSkull/netsentinel) | Real-time network monitor using Scapy — detects ARP spoofing, port scans, DNS hijacking, and ICMP floods |
+| [**SigmaForge**](https://github.com/B0bTheSkull/sigmaforge) | Sigma rule writer, validator, and converter — pySigma-powered CLI that translates portable detection rules to Splunk SPL and Elastic Lucene |
+| [**LogHound**](https://github.com/B0bTheSkull/loghound) | CLI log anomaly detector — finds brute force, privilege escalation, and scanner behavior in auth and web server logs (every detection mapped to MITRE ATT&CK) |
+| [**NetSentinel**](https://github.com/B0bTheSkull/netsentinel) | Real-time network monitor using Scapy — detects ARP spoofing, port scans, DNS hijacking, ICMP floods, and DNS tunneling |
 | [**HoneyNet**](https://github.com/B0bTheSkull/honeynet) | Modular honeypot framework — SSH, HTTP, and FTP decoys with centralized logging and coordinated scan detection |
 | [**ThreatPulse**](https://github.com/B0bTheSkull/threatpulse) | Threat intel aggregator — CLI IOC lookup + web dashboard across URLhaus, MalwareBazaar, Feodo Tracker, and OTX |
+| [**pihole-lab**](https://github.com/B0bTheSkull/pihole-lab) | Pi-hole + unbound deployment with a DNS-layer detection toolkit (DoH/DoT bypass, canary domains, DGA scoring, Suricata correlation) and Prometheus/Grafana/Loki observability |
 
 ### Web & Network Security
 | Repo | What it does |
