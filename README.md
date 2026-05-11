@@ -4,7 +4,7 @@ Security researcher and blue team builder. I spend my time breaking things to un
 
 **CompTIA Security+** | **CompTIA A+** | Active on [HackTheBox](https://hackthebox.com) & [TryHackMe](https://tryhackme.com)
 
-> **Available for hire** — open to blue team, detection engineering, and SOC roles. Reach me at **thecameronstout@gmail.com** or via [bobtheskull.org/hire](https://www.bobtheskull.org/hire).
+> **Available for hire** — open to blue team, detection engineering, and SOC roles. Reach me at **contact@bobtheskull.org** or via [bobtheskull.org/hire](https://www.bobtheskull.org/hire).
 
 ---
 
