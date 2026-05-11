@@ -4,6 +4,8 @@ Security researcher and blue team builder. I spend my time breaking things to un
 
 **CompTIA Security+** | **CompTIA A+** | Active on [HackTheBox](https://hackthebox.com) & [TryHackMe](https://tryhackme.com)
 
+> **Available for hire** — open to blue team, detection engineering, and SOC roles. Reach me at **thecameronstout@gmail.com** or via [bobtheskull.org/hire](https://www.bobtheskull.org/hire).
+
 ---
 
 ## Tools I've Built
@@ -31,7 +33,6 @@ Security researcher and blue team builder. I spend my time breaking things to un
 | [**PhishKit Analyzer**](https://github.com/B0bTheSkull/phishkit-analyzer) | Static analyzer for suspected phishing pages — detects credential forms, kit fingerprints (16shop, Telegram/Discord exfil), brand impersonation, hidden iframes, and embedded IOCs |
 | [**vault-scan**](https://github.com/B0bTheSkull/vault-scan) | Secret scanner for git repositories — ~30 vendor-specific patterns + entropy detection, JSON output, CI-friendly exit codes |
 | [**darkdump_crawl**](https://github.com/B0bTheSkull/darkdump_crawl) | Paste & leak extractor — pulls credentials, emails, API keys, crypto wallets, and IOCs from paste dumps |
-| [**Cybersecurity-projects**](https://github.com/B0bTheSkull/Cybersecurity-projects) | Collection of smaller tools: password strength + breach checker (HIBP), web metadata scraper, ESP32 evil twin demo |
 
 ### Identity, Cloud & Container Security
 | Repo | What it does |
@@ -50,7 +51,7 @@ Security researcher and blue team builder. I spend my time breaking things to un
 
 28+ writeups across TryHackMe and HackTheBox — solving challenges and documenting the process for anyone stuck on the same problem.
 
-→ [**All writeups**](https://github.com/B0bTheSkull/CyberSecWriteUps) | [TryHackMe](https://github.com/B0bTheSkull/CyberSecWriteUps/tree/main/THM) | [HackTheBox](https://github.com/B0bTheSkull/CyberSecWriteUps/tree/main/HTB)
+→ [**All writeups**](https://www.bobtheskull.org/writeups)
 
 ---
 
